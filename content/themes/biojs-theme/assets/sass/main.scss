@@ -4,13 +4,15 @@ $green-1: #00A650; // light-green
 $green-2: #0A5C1C; // dark-mint
 $white: #FFFFFC; // white
 $pink: #EB155B; // pink
+$transp: transparent; // plain transparent
 $colors: (
   'light-green': $green-1,
   'green': $green-2,
   'white': $white,
   'black': $black,
   'pink': $pink,
-  'grey': $grey-1
+  'grey': $grey-1,
+  'transparent': $transp
 );
 
 @mixin vendor ($prop, $val){
