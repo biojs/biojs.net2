@@ -1,4 +1,4 @@
-# BioJS.net Ghost Blog
+# Deprecated! BioJS.net Ghost Blog. Please do not fork this repository. The current website is built from the repo found [here](https://github.com/biojs/biojs.net)
 
 BioJS.net is the new CMS-based website for BioJS resources based on Ghost. You find the running app on https://biojsnet.herokuapp.com/
 If you have issues setting up the development environment or if would like to add content on the live site, pop us a message on [Slack](http://biojs-slackin.herokuapp.com/).
